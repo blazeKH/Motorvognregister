@@ -8,24 +8,24 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
 }
 
 form {
-    background-color: lightsteelblue;
+    background-color: lightblue;
     width: fit-content;
 }
 
 form, input{
-    border: 2px solid black;
+    border: 3px solid black;
     border-radius: 10px;
     padding: 5px;
     padding-right: 15px;
 }
 
 .inputBox {
-    margin-right: 1%;
+    margin-right: 1.5%;
 }
 
 table, th, td {
@@ -35,7 +35,7 @@ table, th, td {
 }
 
 table {
-    background-color: lightsteelblue;
+    background-color: lightblue;
 }
 
 th{

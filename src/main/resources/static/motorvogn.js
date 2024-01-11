@@ -7,7 +7,7 @@ function regBil() {
 
     if (ikke_all_input == false) {
         const bil = {
-            persNum : $("#persNum").val(),
+            personNum : $("#persNum").val(),
             navn : $("#navn").val(),
             adresse : $("#adresse").val(),
             kjennetegn : $("#kjennetegn").val(),
@@ -46,7 +46,7 @@ function formaterData(biler){
         "<th>Eiers personnummer</th><th>Eiers navn</th> <th>Eiers adresse</th><th>Kjennetegn</th><th>Bilmerke</th><th>Biltype</th>" +
         "</tr>";
     for(let i in biler ){
-        ut+="<tr><td>"+biler[i].persNum+"</td><td>"+biler[i].navn+"</td><td>"+biler[i].adresse+"</td><td>"+biler[i].kjennetegn+"</td><td>"+biler[i].bilmerke+"</td><td>"+biler[i].biltype+"</td></tr>"
+        ut+="<tr><td>"+biler[i].personNum+"</td><td>"+biler[i].navn+"</td><td>"+biler[i].adresse+"</td><td>"+biler[i].kjennetegn+"</td><td>"+biler[i].bilmerke+"</td><td>"+biler[i].biltype+"</td></tr>"
     }
     $("#bilene").html(ut);
 }

@@ -1,7 +1,7 @@
 package com.example.motorvognregister;
 
 public class Motorvogn {
-    private String persNum;
+    private String personNum;
     private String navn;
     private String adresse;
     private String kjennetegn;
@@ -9,7 +9,7 @@ public class Motorvogn {
     private String biltype;
 
     public Motorvogn(String persNum, String navn, String adresse, String kjennetegn, String bilmerke, String biltype){
-        this.persNum = persNum;
+        this.personNum = persNum;
         this.navn = navn;
         this.adresse = adresse;
         this.kjennetegn = kjennetegn;
@@ -21,8 +21,8 @@ public class Motorvogn {
 
     }
 
-    public String getPersNum() { return persNum; }
-    public void setPersNum(String persNum) { this.persNum = persNum; }
+    public String getPersNum() { return personNum; }
+    public void setPersNum(String persNum) { this.personNum = persNum; }
 
     public String getNavn() { return navn; }
     public void setNavn(String navn) {
