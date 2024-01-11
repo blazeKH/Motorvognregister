@@ -1,6 +1,4 @@
-# Mål: Utvikle et omfattende register for motorvogner, med fokus på brukervennlighet og effektivitet
-
-![image](https://github.com/NymmkTheMink/Motorvognregister/assets/141179443/105718b0-5153-4324-9005-2b3f8939a105)
+[# Mål: Utvikle et omfattende register for motorvogner, med fokus på brukervennlighet og effektivitet
 
 ## Kjernefunksjoner
 
@@ -8,13 +6,13 @@
 Systemet tillater brukere å legge til og lagre detaljert informasjon om ulike motorvogner, inkludert bilmodell og registreringsnummer.
 
 ### Sletting med et enkelt klikk
-En viktig funksjon er muligheten til å slette oppføringer av motorvogner fra registeret. Dette skal kunne gjøres enkelt og intuitivt, ved hjelp av en dedikert knapp i brukergrensesnittet.
+En viktig funksjon er muligheten til å slette oppføringer av motorvogner fra registeret. Dette skal kunne gjøres enkelt og intuitivt, ved hjelp av en dedikert knapp.
 
 ### Grafisk Brukergrensesnitt (GUI)
-Systemet skal ha et oversiktlig og intuitivt grafisk brukergrensesnitt. GUI-et skal være brukervennlig og tilrettelagt for både erfarne og uerfarne brukere. Det skal gi enkel navigering og rask tilgang til alle systemets funksjoner.
+Systemet skal inneholde et brukervennlig og lettforståelig grafisk brukergrensesnitt, med en GUI som er tilpasset både erfarne og uerfarne brukere. Målet er å muliggjøre enkel navigering og rask tilgang til alle funksjoner i systemet.
 
 ### Sikkerhet og personvern
-Registeret burde følge gjeldende lover og forskrifter for databeskyttelse og personvern. Sikker lagring og håndtering av personlig informasjon bør være en prioritet. Dette er foreløpig ikke en del av prosjektet.
+Registeret må overholde gjeldende lover og forskrifter innen databeskyttelse og personvern. Det bør prioritere sikker lagring og forsvarlig håndtering av personlig informasjon. Det skal bemerkes at dette for tiden ikke er inkludert som en del av prosjektet.
 
 ## Målgruppe
 Prosjektet er rettet mot alle som håndterer kjøretøyregistrering som bilforhandlere, og serviceverksteder som trenger enkel tilgang til kjøretøydata.
@@ -38,7 +36,6 @@ Et funksjonelt motorvognregister som effektiviserer prosessen med å lagre og ad
 5. Hvilke forbedringer kan du foreslå?
 
 ## Bruker 1
-Bruker 1, er en jente på 17 år. Har mye kunnskap om teknologi og utviklingen av det. Brukeren har ikke brukt et motorvognregister før. 
 
 ### Tilbakemeldinger på oppgaver til brukeren:
 1. Tror siden er et motorvognregister
@@ -55,7 +52,7 @@ Bruker 1, er en jente på 17 år. Har mye kunnskap om teknologi og utviklingen a
 5. Mulighet til å slette individuelle motorvogner.
 
 ## Bruker 2
-Bruker 2, er en jente på 17 år. Har middels kunnskap om teknologi og hvordan det utvikles. Har ikke brukt et motorvognregister.
+
 ### Tilbakemeldinger på oppgaver til brukeren:
 1. Et skjema man skal fylle ut for å registrere motorvogner.
 2. Ja
@@ -71,7 +68,7 @@ Bruker 2, er en jente på 17 år. Har middels kunnskap om teknologi og hvordan d
 5. Mer interessant å se på
 
 ## Bruker 3
-Bruker 3, er en gutt på 17 år. Har mye kunnskap om teknologi og hvordan det utvikles. Har jobbet med register før, men ikke motorvognregister.
+
 ### Tilbakemeldinger på oppgaver til brukeren:
 1. Et motorvognregister
 2. Må eie en motorvogn for å skjønne registreret
@@ -87,9 +84,9 @@ Bruker 3, er en gutt på 17 år. Har mye kunnskap om teknologi og hvordan det ut
 5. Bedre navigasjon av registrerte motorvogner. 
 
 # Oppsummering av brukertest
-Alle brukerne klarte å bruke siden og skjønte hva den var til. Likevel dukket det opp forslag til forbedringer. To brukere påpekte at siden var veldig enkelt utformet og litt kjedelig å se på. Det kunne vært lurt å legge litt arbeid i utformingen av det grafiske brukergrensesnittet. 
+Alle brukerne lyktes med å navigere på siden og forsto dens formål. Til tross for dette kom det frem forslag til forbedringer. To brukere bemerket at nettsiden hadde en svært enkel og litt kjedelig design. Det ville være fornuftig å investere mer tid i utformingen av det grafiske brukergrensesnittet.
 
-Andre ting brukerne savnet var muligheten til å slette individuelle motorvogner og mulighet til å søke i registeret. 
+Brukerne etterlyste også muligheten til å slette enkelte motorvogner og ønsket funksjonalitet for å søke i registeret.
 
 # Implementering av brukertest
 Jeg valgte å forbedre det grafiske brukergrensesnittet siden, det var den mest etterspurte forbedringen.
@@ -99,3 +96,4 @@ Jeg valgte å forbedre det grafiske brukergrensesnittet siden, det var den mest 
 - [ChatGPT 3.5](https://chat.openai.com/)
 
 
+](https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.j)
